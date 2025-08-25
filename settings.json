@@ -1,0 +1,66 @@
+{
+    //General
+    "window.zoomLevel": 1.2,
+
+    // Theme
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+
+    // Sidebar
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "hidden",
+
+    // Statusbar
+    "workbench.statusBar.visible": false,
+
+    // Tabs & Breadcrumbs
+    "breadcrumbs.enabled": false,
+    "workbench.editor.showTabs": "single",
+
+    // Minimap
+    "editor.minimap.enabled": false,
+
+    // Font
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.lineHeight": 1.7,
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "custom-ui-style.font.sansSerif": "FiraCode Nerd Font",
+
+    // Saving
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+
+    // Titlebar
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "custom-ui-style.electron": {
+        "frame": false,
+    },
+    "custom-ui-style.stylesheet": {
+        ".monaco-workbench": {
+            "&:not(.fullscreen)": {
+                ".activitybar, .statusbar, .tabs-container, .sidebar .composite.title": {
+                    "-webkit-app-region": "drag",
+
+                    ".content .monaco-action-bar, .statusbar-item, .tab, .title .title-actions .action-label": {
+                        "-webkit-app-region": "no-drag"
+                    }
+                }
+            },
+        },
+    },
+
+    // Scrollbar
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+
+    // Misceláneo
+    "editor.stickyScroll.enabled": false,
+    "explorer.compactFolders": false,
+    "catppuccin-icons.hidesExplorerArrows": true,
+    "workbench.panel.showLabels": false,
+    "terminal.integrated.defaultProfile.linux": "bash",
+}
