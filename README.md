@@ -2,15 +2,13 @@
 
 These are the most beautiful and minimalist settings of VS Code you're going to see
 
-## Dependencies
-For these to work you need the following extensions:
+## Installing
+Just copy the `settings.json` file.
+Then on VS Code type `Ctrl + Shift + P` and open the `User Settings (JSON)` option,
+Finally, paste the text you copied.
 
-**Theme:** https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
+**Alternative:**
+Write the following command on your terminal of choice:
+`git clone github.com/Marma43/VSCode-Settings`
 
----
-
-**Icon Theme:** https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
-
----
-
-**Custom UI:** https://marketplace.visualstudio.com/items?itemName=subframe7536.custom-ui-style
+and then copy the `setting.json` file and paste it on your User Settings.
