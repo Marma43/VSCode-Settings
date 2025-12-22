@@ -9,8 +9,12 @@ Finally, paste the text you copied.
 
 **Alternative:**
 Write the following command on your terminal of choice:
-`git clone github.com/Marma43/VSCode-Settings`
+`git clone github.com/Marma43/VSCode-Settings`. And then copy the `setting.json` file and paste it on your User Settings.
 
-and then copy the `setting.json` file and paste it on your User Settings.
+## Dependencies
+This repository depends on: 
+- Catppuccin Theme (https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- Catppuccin Icon Theme (https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
+- Custom UI Style (https://marketplace.visualstudio.com/items?itemName=subframe7536.custom-ui-style)
 
 If you like this proyect, you could star the repository. And that helps me know you liked it.
