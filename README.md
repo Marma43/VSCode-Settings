@@ -12,3 +12,5 @@ Write the following command on your terminal of choice:
 `git clone github.com/Marma43/VSCode-Settings`
 
 and then copy the `setting.json` file and paste it on your User Settings.
+
+If you like this proyect, you could star the repository. And that helps me know you liked it.
