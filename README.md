@@ -1,6 +1,14 @@
 # Ultra Minimalist VS Code Settings
 
-These are the most beautiful and minimalist settings of VS Code you're going to see
+These are the most minimalist settings of VS Code you're going to see
+
+## Screenshots
+### Python
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2970376-3339-4d56-9543-5c4838834042" />
+
+### Javascript
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec181ae4-85c5-4555-8c61-59c6ec50683a" />
+
 
 ## Installing
 Just copy the `settings.json` file.
