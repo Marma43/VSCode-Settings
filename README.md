@@ -4,11 +4,10 @@ These are the most minimalist settings of VS Code you're going to see
 
 ## Screenshots
 ### Python
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2970376-3339-4d56-9543-5c4838834042" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21c8ac6e-eade-412c-a771-f8e9c4a532fb" />
 
 ### Javascript
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec181ae4-85c5-4555-8c61-59c6ec50683a" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f78f91f4-d4c7-4cd3-9131-cf9d58d287ea" />
 
 ## Installing
 Just copy the `settings.json` file.
